@@ -1,0 +1,37 @@
+Project Description
+Step 1
+The HTML (Hypertext Markup Language) will help us to create the structure for the list with some necessary attributes and elements to make Tic Tac Toe Game Project.
+
+Step 2
+Then we will use CSS (Cascading Stylesheet) which will help us to style or design the project with suitable padding and alignment in the Tic Tac Toe Game Project.
+
+Step 3
+At last we will use JS (JavaScript) which will add a logic to make the Tic Tac Toe Game Project responsive from the user end.
+
+I hope you have got an idea about the project.
+
+HTML Code for Tic Tac Toe Game
+First we’ll start with creating the structure of the Tic Tac Toe Game project for that as you can see the above code we have used all the necessary elements & attributes to setup the structure. Let us know code the CSS part to add styling and aligned the tags.
+
+We have Successfully created our Tic Tac Toe Game using HTML, CSS & JavaScript (Source Code). You can use this project for your personal needs and the respective lines of code are given with the code pen link mentioned above.
+
+for blog
+If you find out this Blog helpful, then make sure to search code with random on google for Front End Projects with Source codes and make sure to Follow the Code with Random Instagram page.
+
+Code Idea – Shah Fazle Elahi
+
+Written By – Shah Fazle Elahi
+
+Code By – Shah Fazle Elahi
+
+echo "# TIC-TAC-TOE-GAME" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git branch -M main
+git remote add origin https://github.com/ShahFazleElahi/TIC-TAC-TOE-GAME.git
+git push -u origin main
+
+git remote add origin https://github.com/ShahFazleElahi/TIC-TAC-TOE-GAME.git
+git branch -M main
+git push -u origin main
